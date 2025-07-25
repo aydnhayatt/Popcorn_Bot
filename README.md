@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ---
 
- 📁 Proje Dosya Yapısı
+ ## **📁 PROJE DOSYA YAPISI**
 popcorn-bot/
 ├── app.py               # Gradio arayüzü
 ├── main.py              # FastAPI backend uygulaması
@@ -39,13 +39,16 @@ popcorn-bot/
 └── README.md            # Proje dokümantasyonu
 
 
+---
+
+## **⚙️ .ENV DOSYASI**
 .env dosyanızı oluşturun ve içine Gemini API anahtarınızı ekleyin:
 GEMINI_API_KEY=your_api_key_here
 
 ---
 
 
-▶️ Çalıştırma
+## **▶️ ÇALIŞTIRMA**
 
 1. Backend (FastAPI)
 uvicorn main:app --reload --port 8000
@@ -55,13 +58,13 @@ python app.py
 
 ---
 
-👩‍💻 Geliştirici
+## **👩‍💻 GELİŞTİRİCİ**
 
 Developed with ❤️ by Hayat Aydın  
 📂 [GitHub Profilim](https://github.com/aydnhayatt)
 
 ---
 
-⭐ Destek Ol
+## **⭐ DESTEK OL**
 Bu repo işine yaradıysa ⭐ bırakmayı ve takip etmeyi unutma:
 👉 GitHub’da beni ziyaret et 👩‍💻✨
